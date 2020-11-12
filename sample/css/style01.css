@@ -53,22 +53,22 @@ header ul li{
   background-position: center ;
   top: 0;
   top:100%;
-  transition: 2s all;
+  transition: 1s all;
 }
 
 #back.anime{
   top: 0%;
 }
 
-#person{
+#inosisi{
   position: absolute;
-  top:230px;
+  top:200px;
   right: -200px;
-  width: 130px;
+  width: 170px;
   transition: 0.6s all;
 }
 
-#person.anime{
+#inosisi.anime{
   right: 10px;
 }
 
@@ -85,7 +85,7 @@ header ul li{
 }
 
 
-#car{
+#uribo{
   position: absolute;
   bottom:0px;
   max-width: 40%;
@@ -94,7 +94,7 @@ header ul li{
   transition: 0.6s all;
 }
 
-#car.anime{
+#uribo.anime{
   left: 100px;
 }
 
